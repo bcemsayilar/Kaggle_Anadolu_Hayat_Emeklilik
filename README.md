@@ -1,6 +1,8 @@
 # Anadolu Hayat Emeklilik Datathon Project
 
 This project contains code and data from a datathon held at the beginning of the year for Anadolu Hayat Emeklilik. The dataset includes detailed customer and product information, which is used to develop and optimize models for predicting customer behavior and product usage.
+## Private score (weighted F1)  : 0.2434 - 120/185
+## Public score  (weighted F1)  : 0.2550
 
 ## Description
 
